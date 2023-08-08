@@ -2,10 +2,6 @@
      * Date: February 24, 2023
      * File: AgentSimulation.java
      * 
-     * CS 231
-     * Section B
-     * Project 3
-     * 
      * this class implement a simulation for the agents
      */
 
