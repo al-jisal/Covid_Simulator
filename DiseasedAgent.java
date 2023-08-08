@@ -2,7 +2,7 @@
      * Date: February 24, 2023
      * File: DiseasedAgent.java
      * 
-     * this class, AS MY EXTENTION, implement a form of Agent called Diseased Agent who
+     * this class implement a form of Agent called Diseased Agent who
      * has contracted corona virus, so needs to be quarantined from other agents
      */
     
