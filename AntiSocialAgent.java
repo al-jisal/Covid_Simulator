@@ -2,10 +2,6 @@
      * Date: February 24, 2023
      * File: AntiSocialAgent.java
      * 
-     * CS 231
-     * Section B
-     * Project 3
-     * 
      * this class implement a form of Agent called Anti Social Agent which
      * avoids other agents
      */
