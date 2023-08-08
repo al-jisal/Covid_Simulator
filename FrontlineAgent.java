@@ -2,11 +2,7 @@
      * Date: February 24, 2023
      * File: FrontlineAgent.java
      * 
-     * CS 231
-     * Section B
-     * Project 3
-     * 
-     * this class, AS MY EXTENTION, implement a form of Agent called Frontline Agent who
+     * this class implement a form of Agent called Frontline Agent who
      * finds, quaratines, and treats other agents with Corona
      */
     
