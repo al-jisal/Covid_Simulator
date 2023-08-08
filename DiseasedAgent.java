@@ -2,10 +2,6 @@
      * Date: February 24, 2023
      * File: DiseasedAgent.java
      * 
-     * CS 231
-     * Section B
-     * Project 3
-     * 
      * this class, AS MY EXTENTION, implement a form of Agent called Diseased Agent who
      * has contracted corona virus, so needs to be quarantined from other agents
      */
