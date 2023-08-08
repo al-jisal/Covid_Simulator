@@ -2,11 +2,7 @@
      * Date: February 24, 2023
      * File: NormalAgent.java
      * 
-     * CS 231
-     * Section B
-     * Project 3
-     * 
-     * this class, AS MY EXTENTION, implement a form of Agent called Normal Agent who
+     * this class implement a form of Agent called Normal Agent who
      * represent a normal person without virus
      */
     
