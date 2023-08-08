@@ -4,10 +4,6 @@ import java.util.Random;
      * Date: February 24, 2023
      * File: ExtensionSimulation.java
      * 
-     * CS 231
-     * Section B
-     * Project 3
-     * 
      * this class implement the idea of my extension: the era of covid
      */
 
