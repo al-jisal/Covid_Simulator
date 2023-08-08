@@ -2,10 +2,6 @@
      * Date: February 24, 2023
      * File: Agent.java
      * 
-     * CS 231
-     * Section B
-     * Project 3
-     * 
      * this class implement an entity called Agent in a spatial coordinates (x,y)
      */
     
